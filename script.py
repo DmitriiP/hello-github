@@ -6,7 +6,7 @@ from itertools import chain
 
 from letters import *
 
-LOW_NUMBER = (1, 3,)
+LOW_NUMBER = (1, 7,)
 HIGH_NUMBER = (20, 23,)
 
 message = [
